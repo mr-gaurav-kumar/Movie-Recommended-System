@@ -148,7 +148,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Gaurav Kumar ||  gauravkr.pro@gmail.com  ||
-LinledIn <href=https://www.linkedin.com/in/gaurav-k-sinha/>
+LinledIn <https://www.linkedin.com/in/gaurav-k-sinha/>
 
 
 
