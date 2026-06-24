@@ -149,7 +149,6 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Gaurav Kumar ||  gauravkr.pro@gmail.com  ||
-LinledIn <>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/gaurav-k-sinha/))
+
 
 
