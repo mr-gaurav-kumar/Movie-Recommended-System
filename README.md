@@ -13,6 +13,7 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 
 ---
 
+
 <img width="1896" height="774" alt="image" src="https://github.com/user-attachments/assets/2171a7dc-bc7c-4d28-bd88-5eb04d68852b" />
 
 ---
