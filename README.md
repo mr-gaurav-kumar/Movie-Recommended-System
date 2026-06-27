@@ -136,7 +136,9 @@ The application will open in your browser automatically.
 * Cosine Similarity Calculation
 * Recommendation Generation
 
+
 ## 🎯 Future Improvements
+
 
 * Hybrid Recommendation System
 * User Authentication
