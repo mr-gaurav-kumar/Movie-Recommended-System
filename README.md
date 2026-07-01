@@ -35,7 +35,6 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 
 ---
 
-
 ### 🎥 Movie Details & Insights
 
 For every recommended movie, users can explore detailed information including the movie overview, rating, genres, release date, and runtime. The application also displays the top cast members and provides a direct trailer link, allowing users to learn more about the movie before deciding what to watch.
