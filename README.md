@@ -125,6 +125,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 The application will open in your browser automatically.
 
 ## 📊 Machine Learning Approach
