@@ -15,7 +15,6 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 
 ---
 
-
 ## 🚀 Features
 
 
